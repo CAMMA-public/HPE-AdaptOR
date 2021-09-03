@@ -9,7 +9,7 @@
 
 _Vinkle Srivastav, Afshin Gangi, Nicolas Padoy_
 
-(https://img.shields.io/badge/arxiv-2108.11801-red)](https://arxiv.org/abs/2108.11801)
+[![arXiv](https://img.shields.io/badge/arxiv-2108.11801-red)](https://arxiv.org/abs/2108.11801)
 
 <div align="center">
   <img src="figs/adaptor.png" width="1000px" />
