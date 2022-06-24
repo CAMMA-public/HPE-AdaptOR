@@ -10,7 +10,7 @@
 _Vinkle Srivastav, Afshin Gangi, Nicolas Padoy_
 
 
-[![arXiv](https://img.shields.io/badge/arxiv-2007.08354-red)](https://arxiv.org/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e1Z8B8NWurkXiAbElxirWizyvDsvvUNv?usp=sharing)
+[![arXiv](https://img.shields.io/badge/arxiv-2108.11801-red)](https://arxiv.org/abs/2108.11801) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e1Z8B8NWurkXiAbElxirWizyvDsvvUNv?usp=sharing)
 
 # __*AdaptOR*__
 <div align="center">
