@@ -1,0 +1,13 @@
+# '''
+# Project: AdaptOR
+# -----
+# Copyright (c) University of Strasbourg, All Rights Reserved.
+# '''
+
+_BASE_: "../base/Base_kmrcnn_R_50_FPN_3x_gn_amp_4gpus.yaml"     
+
+SOLVER:
+  IMS_PER_BATCH: 8
+  BASE_LR: 0.01
+  STEPS: (420000, 500000)
+  MAX_ITER: 540000

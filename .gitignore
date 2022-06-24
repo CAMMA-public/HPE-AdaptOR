@@ -1,0 +1,80 @@
+# output dir
+!utils_data/vid_clip.mp4
+run_inference_xaware.py
+test1*
+debug_train_net.py
+eval_v100.sh
+eval_jean.sh
+eval_temp.sh
+tt.py
+train_net_temp.py
+utils_an.log
+utils_an.sh
+test2*
+eval_pred2.sh
+p2_train_net_eval.py
+p2_train_net.py
+datasets/*
+output
+output*
+datasets
+instant_test_output
+inference_test_output
+jobs/coco_kpt/sup1_exp03_krcnn_r50fpn_ra_lrsz_geom_run1_amp_test.sh
+jobs/coco_kpt/moco_sup1_exp01_faster_rcnn_r50fpn_ra_lrsz_geom_run1_amp_focal_temp.sh
+jobs/coco_kpt/sup1_exp01_krcnn_r50fpn_ra_lrsz_geom_run1_amp_focal_scratch_ck.sh
+extra_repos
+extra_repos/*
+datasets/mvor_dataset/
+results/
+results
+*.jpg
+*.txt
+*.mp4
+*.mkv
+tools/utils.py
+demo_kpt_mask.py
+bbox-baselines/unbiased-teacher/models
+# compilation and distribution
+__pycache__
+_ext
+*.pyc
+*.so
+AdelaiDet.egg-info/
+build/
+dist/
+
+# pytorch/python/numpy formats
+*.pth
+*.pkl
+*.npy
+
+# ipython/jupyter notebooks
+**/.ipynb_checkpoints/
+
+# Editor temporaries
+*.swn
+*.swo
+*.swp
+*~
+
+# Pycharm editor settings
+.idea
+.vscode
+.python-version
+
+# project dirs
+/datasets/h36m_train
+/datasets/coco
+/datasets/lvis
+/datasets/cityscapes
+/models
+/debug
+/weights
+extra
+extra/*
+!dataseed/COCO_supervision.txt
+!utils_data/vid_clip.mp4
+flagged
+!utils_data/coco_val2017_000000410456.jpg
+!utils_data/vid_clip/*.jpg

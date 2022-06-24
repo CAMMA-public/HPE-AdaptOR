@@ -1,0 +1,13 @@
+# '''
+# Project: AdaptOR
+# -----
+# Copyright (c) University of Strasbourg, All Rights Reserved.
+# '''
+
+_BASE_: "../base/Base_kmrcnn_R_50_FPN_3x_gn_amp_4gpus.yaml"
+
+DATALOADER:
+  SUP_PERCENT: 1.0
+
+UDA:
+  ENABLE: True
