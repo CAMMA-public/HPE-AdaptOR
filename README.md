@@ -5,7 +5,7 @@
 </div>
 
 
-**AdaptOR: Unsupervised Domain Adaptation on low-resolution OR images for joint Human Pose Estimation and Instance Segmentation**
+**Unsupervised domain adaptation for clinician pose estimation and instance segmentation in the operating room**
 
 _Vinkle Srivastav, Afshin Gangi, Nicolas Padoy_, Medical Image Analysis (2022)
 
