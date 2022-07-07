@@ -102,7 +102,7 @@ Sample output of __*AdaptOR-SSL*__ comparing the model trained with 1% vs. 100% 
 ## Citation
 ```bibtex
 @inproceedings{srivastav2021adaptor,
-  title={AdaptOR: Unsupervised Domain Adaptation on low-resolution OR images for joint Human Pose Estimation and Instance Segmentation},
+  title={Unsupervised domain adaptation for clinician pose estimation and instance segmentation in the operating room},
   author={Srivastav, Vinkle and Gangi, Afshin and Padoy, Nicolas},
   booktitle={Medical Image Analysis},
   year={2022},
